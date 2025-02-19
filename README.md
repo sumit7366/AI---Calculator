@@ -73,7 +73,7 @@ export default tseslint.config({
 ```
 cd frontend
 npm build
-npm run build
+npm run dev
 
 ```
 
