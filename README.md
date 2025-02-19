@@ -68,3 +68,20 @@ export default tseslint.config({
 ```
   npm run dev
 ```
+# For frontend
+
+```
+cd frontend
+npm build
+npm run build
+
+```
+
+# For backend
+
+```
+cd backend
+npm build
+npm run
+npm run dev
+```
