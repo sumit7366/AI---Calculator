@@ -56,3 +56,15 @@ export default tseslint.config({
   pip install -r requirements.txt 
 
 ```
+
+# Run from this command 
+
+```
+  build npm
+  run npm
+```
+# if not then use 
+
+```
+  npm run dev
+```
